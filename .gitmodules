@@ -1,3 +1,9 @@
 [submodule "MyPCB/MX_V2"]
 	path = MyPCB/MX_V2
 	url = https://github.com/ai03-2725/MX_V2
+[submodule "MyPCB/OPL_Kicad_Library"]
+	path = MyPCB/OPL_Kicad_Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
+[submodule "MyPCB/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
+	path = MyPCB/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
+	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
