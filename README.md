@@ -3,6 +3,10 @@
 # Cad Model
 <img width="881" height="793" alt="image" src="https://github.com/user-attachments/assets/a1f94dc4-029c-4477-ae64-ad0929e00b4e" />
 
+<img width="566" height="410" alt="image" src="https://github.com/user-attachments/assets/14b7308c-a6bc-4107-864e-efd02a626f22" />
+
+<img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/23597573-3d24-4d0a-a501-5a320f2fe17d" />
+
 Made in Fusion360
 # PCB
 <img width="1146" height="620" alt="image" src="https://github.com/user-attachments/assets/fefac079-6841-43f9-895a-d0292b97b4ad" />
@@ -29,6 +33,4 @@ Schematic
 
 1x Case (2 parts: Bottom Case and Cover)
 
-<img width="566" height="410" alt="image" src="https://github.com/user-attachments/assets/14b7308c-a6bc-4107-864e-efd02a626f22" />
 
-<img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/23597573-3d24-4d0a-a501-5a320f2fe17d" />
