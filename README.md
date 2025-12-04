@@ -1,4 +1,6 @@
-# MyPCB-For-HackClub Including everything else
+# My First Macropad 
+
+This project will be used for multi-camera live streaming in OBS. I plan on having 4 scenes, meaning I will need 4 keys and oled status screen and an RGB light, which will be synced and change colour depending on which scene is being used.
 
 # Cad Model
 <img width="881" height="793" alt="image" src="https://github.com/user-attachments/assets/a1f94dc4-029c-4477-ae64-ad0929e00b4e" />
