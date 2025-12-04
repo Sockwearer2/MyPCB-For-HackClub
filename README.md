@@ -3,13 +3,15 @@
 This project will be used for multi-camera live streaming in OBS. I plan on having 4 scenes, meaning I will need 4 keys and oled status screen and an RGB light, which will be synced and change colour depending on which scene is being used.
 
 # Cad Model
-<img width="881" height="793" alt="image" src="https://github.com/user-attachments/assets/a1f94dc4-029c-4477-ae64-ad0929e00b4e" />
+<img width="951" height="779" alt="image" src="https://github.com/user-attachments/assets/b5844305-660c-411d-9da0-f54c886693f1" />
 
-<img width="566" height="410" alt="image" src="https://github.com/user-attachments/assets/14b7308c-a6bc-4107-864e-efd02a626f22" />
+<img width="984" height="730" alt="image" src="https://github.com/user-attachments/assets/2d7f6ce6-2620-40b6-8b80-b89ede5abe7f" />
 
-<img width="542" height="295" alt="image" src="https://github.com/user-attachments/assets/23597573-3d24-4d0a-a501-5a320f2fe17d" />
+<img width="1008" height="704" alt="image" src="https://github.com/user-attachments/assets/69323230-6ab3-42cd-a381-3aa47bd88d0e" />
 
-Made in Fusion360
+    Made in Fusion360
+
+
 # PCB
 <img width="1146" height="620" alt="image" src="https://github.com/user-attachments/assets/fefac079-6841-43f9-895a-d0292b97b4ad" />
 
@@ -53,4 +55,8 @@ Schematic
 
 1x Case (2 parts: Bottom Case and Cover)
 
+1 PCB
+
+    Use JLBPCB for PCB
+    Gerber files are made by opening pcb file. Then press the Files, then Plot, and make sure to press drill and as a single file (it's an option)
 
